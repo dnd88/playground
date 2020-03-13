@@ -8,3 +8,6 @@ make conflict
 
 mybranch line 1
 mybranch line 2
+
+
+reset 1
