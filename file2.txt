@@ -2,4 +2,9 @@ unstaging test
 
 collaborator's code
 
+
 make conflict
+
+
+mybranch line 1
+mybranch line 2
